@@ -14,16 +14,19 @@ A fully featured MERN stack (MongoDB, Express, React, Node.js) web application t
 ## 📸 Preview
 
  #### signup-
-<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/d8c50acd-87aa-4456-bd4a-b461d5245b3d" />
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/d9fee05a-b53a-4c30-b3cd-5f679b109973" />
+
 
  #### login-
- <img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/67fb3b09-c85e-4fcd-916a-7760c44d55eb" />
+ <img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/021732c3-48f4-414c-b82e-73374d56288b" />
+
 
  #### user page-
- <img width="1865" height="918" alt="image" src="https://github.com/user-attachments/assets/f5763812-ed98-479a-8178-cd6898e1fdba" />
+ <img width="1755" height="1406" alt="image" src="https://github.com/user-attachments/assets/75d1b691-7377-4e23-9b64-1e57f3ee1466" />
 
 
-<img width="1871" height="922" alt="image" src="https://github.com/user-attachments/assets/9d3588ce-b753-4536-ac1a-5b395942364d" />
+<img width="1755" height="1406" alt="image" src="https://github.com/user-attachments/assets/c5c33233-d68d-48a6-bc44-02c4ff57715e" />
+
 
 
 ---
