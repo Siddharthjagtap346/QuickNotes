@@ -19,7 +19,17 @@ A fully featured MERN stack (MongoDB, Express, React, Node.js) web application t
 
 ## 📸 Preview
 
-![3D Hero Book](./public/assets/demo-preview.png)
+ signup-
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/67a01d23-c984-4896-8051-b8ffbc0609a3" />
+
+
+ login-
+ <img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/67fb3b09-c85e-4fcd-916a-7760c44d55eb" />
+
+ user page-
+ <img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/5c8d29fe-7ff5-4621-aac6-bbc372cf8f20" />
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/52ecefba-1384-492e-beed-8fd8cc92b5cb" />
+
 
 ---
 
