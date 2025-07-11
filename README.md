@@ -10,12 +10,6 @@ A fully featured MERN stack (MongoDB, Express, React, Node.js) web application t
 
 ---
 
-## 🔥 Live Demo (Optional)
-
-> _If deployed, put your link here (e.g., Vercel + Railway)_  
-> https://quicknotes-ai3d.vercel.app
-
----
 
 ## 📸 Preview
 
